@@ -55,7 +55,11 @@ chair-project/
 * Improving frontend layout skills
 
 ---
+## Screenshot:
 
+![Chair UI](chairdemo.png)
+
+---
 ## Author:
 
 **Kangan Mane**
